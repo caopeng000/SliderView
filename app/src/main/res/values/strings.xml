@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SliderView</string>
+    <string name="podcast_warning_retry_stop">中断十分钟后直播将结束</string>
+    <string name="podcast_warning_microphone_mute">麦克风已静音</string>
+    <string name="podcast_warning_mute_stop_live">静音10分钟后直播将结束</string>
+    <string name="podcast_warning_recover_record">麦克风已恢复</string>
+    <string name="podcast_warning_start">直播已开始</string>
+    <string name="podcast_warning_stop">直播已结束</string>
+    <string name="podcast_scroll_warning_text">滑动开始直播</string>
+
+    <string name="slider_right_scroll_mute">右滑静音</string>
+    <string name="slider_left_scroll_stop_live">左滑结束直播</string>
+    <string name="slider_right_scroll_cancel_mute">右滑取消静音</string>
+</resources>
